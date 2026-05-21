@@ -1,0 +1,23 @@
+{
+  "name": "careerflow-qa-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipankajmishra10-ship-it/careerflow-qa-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ipankajmishra10-ship-it/careerflow-qa-assignment/issues"
+  },
+  "homepage": "https://github.com/ipankajmishra10-ship-it/careerflow-qa-assignment#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1"
+  }
+}
