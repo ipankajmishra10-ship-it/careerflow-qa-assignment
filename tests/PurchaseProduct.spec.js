@@ -15,7 +15,7 @@ It validates critical business functionality and demonstrates
 end-to-end user interaction coverage with meaningful assertions.
 */
 
-test('Complete purchase flow', async ({ page }) => {
+test('TC_001: Complete purchase flow', async ({ page }) => {
 
   const loginPage = new LoginPage(page);
   const inventoryPage = new InventoryPage(page);
